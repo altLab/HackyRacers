@@ -1,5 +1,5 @@
 # HackyRacers API
-* ## ** lap ** _ v01 _
+* ## **lap** _ v01 _
 receives the car number and returns with timestamp
 
     _ ex _ https://hackyracers.mybluemix.net/api/v01/lap?car=5
