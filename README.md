@@ -1,10 +1,10 @@
 # HackyRacers API
-* ## **lap** _ v01 _
+* ## **lap** _v01_
 receives the car number and returns with timestamp
 
-    _ ex _ https://hackyracers.mybluemix.net/api/v01/lap?car=5
+    _ex_ https://hackyracers.mybluemix.net/api/v01/lap?car=5
 
-* ## ** addlap ** _ v01 _
+* ## **addlap** _v01_
 receives the car number and returns with timestamp and a lap counter
 use ttps://hackyracers.mybluemix.net/api/v01/reset to set to 0
 
