@@ -16,4 +16,5 @@ makes the lap counter set to 0
 
 use https://hackyracers.mybluemix.net/api/v01/reset
 
-    _ex_ https://hackyracers.mybluemix.net/api/v01/reset
+# HackyRacers Dasboard
+## **wip**
