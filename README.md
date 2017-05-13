@@ -17,6 +17,6 @@ makes the lap counter set to 0
 use https://hackyracers.mybluemix.net/api/v01/reset
 
 # HackyRacers Dashboard
-## ** Draft **
+## **Draft**
 
 The dashboard includes a race evolution chart and a simulator button calling the API
